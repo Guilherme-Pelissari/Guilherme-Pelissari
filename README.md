@@ -1,8 +1,7 @@
-<h1 align="center">Fala devs, eu sou o Guilherme 👨‍💻</h1>
+<h1 align="center">Olá, eu sou o Guilherme 👨‍💻</h1>
 
 <p align="center">
   💡 Desenvolvedor apaixonado por tecnologia, sempre buscando aprender e evoluir.<br>
-  🔁 Em transição de carreira da Biologia para a TI.<br>
   🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP.
 </p>
 
