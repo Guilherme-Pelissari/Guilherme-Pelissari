@@ -58,7 +58,7 @@
 
 ### 📫 Vamos conectar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-pelissari-feitosa-59996b2ba/)
-[📧 Enviar email](mailto:guipelissari2000@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=guipelissari2000@gmail.com)
 
 ---
 
