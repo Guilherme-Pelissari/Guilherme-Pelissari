@@ -1,1 +1,14 @@
+# Ignore pastas com notebooks ou scripts pessoais no cálculo de linguagens
+*.ipynb linguist-documentation=false
+*.csv linguist-documentation=false
+
+# Ignorar um projeto Python específico
+/MeuProjetoPython/** linguist-vendored
+
+# Ignorar arquivos de configuração do LangChain ou Colab
+/langchain_tests/** linguist-vendored
+
+# Forçar contagem de arquivos JS e Java como código principal
+*.js linguist-language=JavaScript
+*.java linguist-language=Java
 
