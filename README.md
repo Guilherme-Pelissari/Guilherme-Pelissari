@@ -8,9 +8,10 @@
 ---
 
 ### 🚀 Sobre mim
-- 💻 Foco atual em **Java com Spring Boot** e **Python**
+- 💻 Foco atual em **Java com Spring Boot**, **Python** e desenvolvimento **fullstack**
 - 🧪 Experiência com banco de dados **Oracle** e modelagem relacional
-- 🧠 Estudo **Inteligência Artificial**, **APIs REST** e **IoT**
+- 🧠 Estudo **Inteligência Artificial**, **APIs REST**, **IoT** e **integrações com back-end**
+- 🎨 Conhecimentos práticos em **React**, **JavaScript**, **HTML** e **CSS**
 - 🌱 Curioso, autodidata, e sempre aberto a feedbacks e aprendizado em equipe
 - ☁️ Explorando o mundo da **computação em nuvem e DevOps**
 
