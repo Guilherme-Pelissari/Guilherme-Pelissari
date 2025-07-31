@@ -3,7 +3,7 @@
 *.csv linguist-documentation=false
 
 # Ignorar um projeto Python específico
-/MeuProjetoPython/** linguist-vendored
+/llm-agents-langchain/** linguist-vendored
 
 # Ignorar arquivos de configuração do LangChain ou Colab
 /langchain_tests/** linguist-vendored
