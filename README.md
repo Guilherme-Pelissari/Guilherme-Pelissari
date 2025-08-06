@@ -19,8 +19,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Pelissari&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Pelissari&layout=compact&theme=tokyonight&langs_count=8" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Pelissari&show_icons=true&theme=tokyonight&exclude_repo=llm-agents-langchain" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Pelissari&layout=compact&theme=tokyonight&langs_count=8&exclude_repo=llm-agents-langchain" />
 </p>
 
 ---
