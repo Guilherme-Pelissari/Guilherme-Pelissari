@@ -62,6 +62,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=guipelissari2000@gmail.com)
 
 ---
+![Typing Code](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+---
 
 <p align="center">Made with ❤️ by Guilherme Pelissari</p>
 
