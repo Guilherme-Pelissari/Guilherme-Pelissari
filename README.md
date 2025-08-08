@@ -62,7 +62,11 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=guipelissari2000@gmail.com)
 
 ---
-![Typing Code](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)             ![Hacker Terminal](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
+</p>
+
 
 ---
 
