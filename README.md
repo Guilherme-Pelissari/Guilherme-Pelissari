@@ -2,7 +2,7 @@
 
 <p align="center">
   💡 Developer passionate about technology, always looking to learn and evolve.<br>
-  🎓 Student of Systems Analysis and Development at FIAP.
+  🎓 Graduate in Systems Analysis and Development at FIAP.
 </p>
 
 ---
