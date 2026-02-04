@@ -19,10 +19,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Pelissari&show_icons=true&theme=tokyonight&exclude_repo=llm-agents-langchain" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Pelissari&layout=compact&theme=tokyonight&langs_count=8&exclude_repo=llm-agents-langchain" />
+  <img width="100%" src="github-metrics.svg" alt="Metrics" />
 </p>
-
 ---
 
 ### 🛠️ Technologies and Tools
