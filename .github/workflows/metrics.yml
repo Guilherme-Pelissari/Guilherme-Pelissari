@@ -1,8 +1,6 @@
 name: Metrics
 on:
-  # Atualiza todo dia à meia-noite
   schedule: [{cron: "0 0 * * *"}]
-  # Permite rodar manualmente
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:
@@ -21,20 +19,20 @@ jobs:
           
           # --- Visual ---
           config_theme: dracula
+          config_display: large  # Melhora a distribuição interna
           
           # --- Linguagens ---
           plugin_languages: yes
-          # AQUI ESTÁ O PULO DO GATO:
           plugin_languages_skipped: llm-agents-langchain
-          
-          plugin_languages_ignored: >-
-            html, css
           plugin_languages_details: lines, percentage
           plugin_languages_limit: 8
           
-          # --- Outros Plugins ---
+          # --- Gráfico 3D (Mantido) ---
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           
-          plugin_achievements: yes
-          plugin_achievements_display: compact
+          # --- NOVO: Histórico de Linhas (No lugar das Conquistas) ---
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: base
