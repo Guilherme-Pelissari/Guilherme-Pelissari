@@ -19,22 +19,22 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
           
-          # --- A Mágica Visual Começa Aqui ---
-          
-          # Tema escuro e moderno (Dracula)
+          # --- Visual ---
           config_theme: dracula
           
-          # Barra de Linguagens (Top Langs)
+          # --- Linguagens ---
           plugin_languages: yes
+          # AQUI ESTÁ O PULO DO GATO:
+          plugin_languages_skipped: llm-agents-langchain
+          
           plugin_languages_ignored: >-
             html, css
           plugin_languages_details: lines, percentage
           plugin_languages_limit: 8
           
-          # Aquele gráfico 3D isométrico (Fica muito top!)
+          # --- Outros Plugins ---
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           
-          # Badges de conquistas (Compacto para não poluir)
           plugin_achievements: yes
           plugin_achievements_display: compact
